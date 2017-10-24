@@ -1,3 +1,17 @@
+% GB Comments:
+1a. 100
+1b. 100
+2a. 100
+2b. 100
+2c. 100
+2d. 100
+2e. 100
+3a.  100
+3b. 100 
+3c.  100
+Overall: 100
+
+
 %Akash Mitra
 %am132
 
